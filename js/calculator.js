@@ -111,7 +111,5 @@ operatorButtons.forEach(button => {
 // should call the function performOperation
 const equalButton = document.querySelector('.equal-sign');
 equalButton.addEventListener('click', performOperation);
-
-
 });
 
