@@ -1,4 +1,4 @@
-# Calculator
+# MathMaster Calculator
 
 Functional calculator that can do basic math (+, -, *, /)
 
